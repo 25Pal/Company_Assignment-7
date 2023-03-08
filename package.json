@@ -1,0 +1,24 @@
+{
+  "name": "company_assignment-7",
+  "version": "1.0.0",
+  "description": "Tailwebs assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/25Pal/Company_Assignment-7.git"
+  },
+  "author": "Pallavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/25Pal/Company_Assignment-7/issues"
+  },
+  "homepage": "https://github.com/25Pal/Company_Assignment-7#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.1"
+  }
+}
